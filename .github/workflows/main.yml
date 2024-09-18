@@ -28,11 +28,6 @@ jobs:
         run: |
           chmod +x ./build-cores.sh
           ./build-cores.sh
-
-      - name: Increment semvar
-        run: |
-          chmod +x ./increment-semvar.sh
-          ./increment-semvar.sh
           
       - run: npm publish --provenance --access public
         env:
