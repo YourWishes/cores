@@ -1,0 +1,14 @@
+[
+  {
+      "name": "gambatte",
+      "extensions": [ "gb", "gbc", "dmg" ],
+      "makeoptions": {
+          "buildpath": "./",
+          "makescript": "Makefile.libretro",
+          "arguments": []
+      },
+      "options": {},
+      "license": "COPYING",
+      "repo": "https://github.com/EmulatorJS/gambatte-libretro"
+  }
+]

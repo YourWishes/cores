@@ -1,0 +1,10 @@
+{
+  "name": "cores",
+  "version": "1.0.0",
+  "license": "GPL-3.0",
+  "author": "Dominic Masters <dominic@domsplace.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/YourWishes/cores.git"
+  }
+}
